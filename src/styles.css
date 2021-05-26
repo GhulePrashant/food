@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  max-width: 550px;
+  margin: auto;
+  padding: 2rem;
+}
+
+body {
+  background: #e5e7eb;
+}
+
+p {
+  font-size: smaller;
+}
+
+button {
+  border: 1px solid black;
+  background: #e5e7eb;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0.5rem;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+div {
+  text-align: left;
+}
+
+ul {
+  padding-inline-start: 0;
+}
+
+li {
+  list-style: none;
+  border: 1px solid black;
+  width: 65%;
+  padding: 1rem;
+  margin: 1rem 0rem;
+  border-radius: 0.25rem;
+}
+
+.food-name {
+  font-size: larger;
+}
+
+.food-rating {
+  font-size: smaller;
+}
